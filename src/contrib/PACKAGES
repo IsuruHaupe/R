@@ -3,5 +3,5 @@ Version: 0.1
 Depends: R (>= 2.10)
 Suggests: gaston
 License: GPL-3
-MD5sum: 5e58839bcff2bec18e25aab39f8d6a69
+MD5sum: 73e35d19ecbcb1a866bcb61ebe256c07
 NeedsCompilation: no
